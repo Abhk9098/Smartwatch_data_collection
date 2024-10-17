@@ -6,3 +6,7 @@ class Config():
         self.db_name = "sbit_db"
         self.maxFilesPerTrigger = 1000
 
+
+# COMMAND ----------
+
+
